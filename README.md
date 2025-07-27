@@ -8,3 +8,8 @@
  2. Динамичко креирање на правила
  3. Додавање на UI поврзан со бекенд
  4. Создавање на Authentication/Authorization систем
+
+Како да се уклучи:
+```bash
+dotnet restore
+dotnet run --project TransactionSoftware
